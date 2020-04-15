@@ -52,3 +52,7 @@
 # Use Case Diagram
 
 ![Porton Health Use Case Diagram](docs/images/UseCaseDiagram.png)
+
+# Wireframe
+
+https://www.figma.com/file/ArnNiZ1HjBDJTxPNqpjgsh/Porton-Health-Industry-Project?node-id=0%3A1

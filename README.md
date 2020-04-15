@@ -1,3 +1,8 @@
+# Repo Links
+
+- [Front End](https://github.com/carrotcorn/PortonHealthKioskFrontend)
+- [Back End](https://github.com/carrotcorn/PortonHealthKioskBackend)
+
 # Functional Requirements
 
 ## Week one functionality

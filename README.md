@@ -5,20 +5,6 @@
 
 # Functional Requirements
 
-## Week one functionality
-
-- Backend
-
-  - Auth with varying privileges
-    - Porton admin role
-    - Clinic admin role
-  - Ability to add/disable clinic accounts
-
-- Frontend
-  - Porton Admin portal
-    - Add/Disable Clinic accounts
-  - Clinic portal
-
 ## Need to Have
 
 - Check-in Support
